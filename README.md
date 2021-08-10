@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on: Stuff and things, helping technology partners land their solutions and apps on Azure
+- 🌱 I’m currently learning: Principles of Macroeconomics, Business Communication, and Real Estate Principles
+- 👯 I’m looking to collaborate on: world peace
+- 🤔 I’m looking for help with: (see above)
+- 💬 Ask me about: my kids, my dog, and/or Atlanta United
+- 📫 How to reach me: <a href="https://twitter.com/@mike11stevens" target="_blank">@mike11stevens</a>
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I was the TIME magazine PErson of the Year in 2006.
