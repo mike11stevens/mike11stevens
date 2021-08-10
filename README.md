@@ -1,24 +1,10 @@
-### Hi there 👋
+### Hey. ✋🏻👊🏻✌🏻
 
-<!--
-**mike11stevens/mike11stevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on: stuff and things, <a href="https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview">helping technology partners land their solutions and apps on Azure</a>
+- 🔭 I’m currently working on: stuff and things, <a href="https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview" target="_blank">helping technology partners land their solutions and apps on Azure</a>
 - 🌱 I’m currently learning: Principles of Macroeconomics, Business Communication, and Real Estate Principles
 - 👯 I’m looking to collaborate on: world peace
 - 🤔 I’m looking for help with: (see above)
 - 💬 Ask me about: my kids, my dog, and/or Atlanta United
-- 📫 How to reach me: <a href="https://twitter.com/@mike11stevens" target="_blank">@mike11stevens</a>, <a href="https://linkedin.com/in/mikestevens">LinkedIn</a>
+- 📫 How to reach me: <a href="https://twitter.com/@mike11stevens" target="_blank">@mike11stevens</a>, <a href="https://linkedin.com/in/mikestevens" target="_blank">LinkedIn</a>
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I was the TIME magazine PErson of the Year in 2006.
+- ⚡ Fun fact: I was the <a href="https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)" target="_blank">TIME Magazine Person of the Year in 2006.</a>
