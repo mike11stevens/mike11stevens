@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with: (see above)
 - 💬 Ask me about: my kids, my dog, and/or Atlanta United
 - 📫 How to reach me: <a href="https://twitter.com/@mike11stevens" target="_blank">@mike11stevens</a>, <a href="https://linkedin.com/in/mikestevens" target="_blank">LinkedIn</a>
-- 😄 Pronouns: HE/HIM
+- 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: I was the <a href="https://en.wikipedia.org/wiki/You_(Time_Person_of_the_Year)" target="_blank">TIME Magazine Person of the Year in 2006.</a>
