@@ -1,5 +1,4 @@
-# ✋🏻👊🏻✌🏻
-## Hey. 
+# ✋🏻👊🏻✌🏻  Hey.
 
 - 🔭 I’m currently working on: stuff and things, <a href="https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview" target="_blank">helping technology partners land their solutions and apps on Azure</a>
 - 🌱 I’m currently learning: Principles of Macroeconomics, Business Communication, and Real Estate Principles
