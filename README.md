@@ -1,7 +1,7 @@
 # ✋🏻👊🏻✌🏻  Hey.
 
 - 🔭 I’m currently working on: <a href="https://www.youtube.com/watch?v=bm2CNn3CIU0" target="_blank">stuff and things</a>, <a href="https://azure.microsoft.com/en-us/programs/azure-fasttrack/#overview" target="_blank">helping technology partners land their solutions and apps on Azure</a>
-- 🌱 I’m currently learning: Principles of Macroeconomics, Business Communication, and Real Estate Principles
+- 🌱 I’m currently learning: to be more patient.
 - 👯 I’m looking to collaborate on: world peace
 - 🤔 I’m looking for help with: (see above)
 - 💬 Ask me about: my kids, my dog, and/or Atlanta United
